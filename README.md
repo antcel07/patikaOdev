@@ -1,3 +1,3 @@
 # patikaOdev
 patika odev yapılanlar
-www.patika.dev
+www.patika.dev.com
