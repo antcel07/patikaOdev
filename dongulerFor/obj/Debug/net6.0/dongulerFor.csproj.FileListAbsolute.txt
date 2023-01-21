@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\dongulerFor\bin\Debug\net6.0\dongulerFor.exe
+C:\Users\W10\Desktop\Pratikler\dongulerFor\bin\Debug\net6.0\dongulerFor.deps.json
+C:\Users\W10\Desktop\Pratikler\dongulerFor\bin\Debug\net6.0\dongulerFor.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\dongulerFor\bin\Debug\net6.0\dongulerFor.dll
+C:\Users\W10\Desktop\Pratikler\dongulerFor\bin\Debug\net6.0\dongulerFor.pdb
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.dll
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\refint\dongulerFor.dll
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.pdb
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\dongulerFor.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\dongulerFor\obj\Debug\net6.0\ref\dongulerFor.dll
