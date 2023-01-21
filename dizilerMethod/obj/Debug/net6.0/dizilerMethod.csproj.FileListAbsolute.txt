@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\bin\Debug\net6.0\dizilerMethod.exe
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\bin\Debug\net6.0\dizilerMethod.deps.json
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\bin\Debug\net6.0\dizilerMethod.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\bin\Debug\net6.0\dizilerMethod.dll
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\bin\Debug\net6.0\dizilerMethod.pdb
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.dll
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\refint\dizilerMethod.dll
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.pdb
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\dizilerMethod.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\dizilerMethod\obj\Debug\net6.0\ref\dizilerMethod.dll
