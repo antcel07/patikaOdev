@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\bin\Debug\net6.0\recursiveExtentionMethod.exe
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\bin\Debug\net6.0\recursiveExtentionMethod.deps.json
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\bin\Debug\net6.0\recursiveExtentionMethod.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\bin\Debug\net6.0\recursiveExtentionMethod.dll
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\bin\Debug\net6.0\recursiveExtentionMethod.pdb
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.dll
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\refint\recursiveExtentionMethod.dll
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.pdb
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\recursiveExtentionMethod.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\recursiveExtentionMethod\obj\Debug\net6.0\ref\recursiveExtentionMethod.dll
