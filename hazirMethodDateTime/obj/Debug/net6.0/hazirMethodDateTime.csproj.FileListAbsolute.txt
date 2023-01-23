@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\bin\Debug\net6.0\hazirMethodDateTime.exe
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\bin\Debug\net6.0\hazirMethodDateTime.deps.json
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\bin\Debug\net6.0\hazirMethodDateTime.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\bin\Debug\net6.0\hazirMethodDateTime.dll
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\bin\Debug\net6.0\hazirMethodDateTime.pdb
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.dll
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\refint\hazirMethodDateTime.dll
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.pdb
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\hazirMethodDateTime.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodDateTime\obj\Debug\net6.0\ref\hazirMethodDateTime.dll
