@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\bin\Debug\net6.0\hazirMethodlar.exe
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\bin\Debug\net6.0\hazirMethodlar.deps.json
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\bin\Debug\net6.0\hazirMethodlar.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\bin\Debug\net6.0\hazirMethodlar.dll
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\bin\Debug\net6.0\hazirMethodlar.pdb
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.dll
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\refint\hazirMethodlar.dll
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.pdb
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\hazirMethodlar.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\hazirMethodlar\obj\Debug\net6.0\ref\hazirMethodlar.dll
