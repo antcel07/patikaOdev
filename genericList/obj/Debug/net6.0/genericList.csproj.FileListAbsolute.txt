@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\genericList\bin\Debug\net6.0\genericList.exe
+C:\Users\W10\Desktop\Pratikler\genericList\bin\Debug\net6.0\genericList.deps.json
+C:\Users\W10\Desktop\Pratikler\genericList\bin\Debug\net6.0\genericList.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\genericList\bin\Debug\net6.0\genericList.dll
+C:\Users\W10\Desktop\Pratikler\genericList\bin\Debug\net6.0\genericList.pdb
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.dll
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\refint\genericList.dll
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.pdb
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\genericList.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\genericList\obj\Debug\net6.0\ref\genericList.dll
