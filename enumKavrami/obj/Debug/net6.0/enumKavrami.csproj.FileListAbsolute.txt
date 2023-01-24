@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\enumKavrami\bin\Debug\net6.0\enumKavrami.exe
+C:\Users\W10\Desktop\Pratikler\enumKavrami\bin\Debug\net6.0\enumKavrami.deps.json
+C:\Users\W10\Desktop\Pratikler\enumKavrami\bin\Debug\net6.0\enumKavrami.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\enumKavrami\bin\Debug\net6.0\enumKavrami.dll
+C:\Users\W10\Desktop\Pratikler\enumKavrami\bin\Debug\net6.0\enumKavrami.pdb
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.dll
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\refint\enumKavrami.dll
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.pdb
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\enumKavrami.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\enumKavrami\obj\Debug\net6.0\ref\enumKavrami.dll
