@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.exe
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.deps.json
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.dll
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.pdb
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.dll
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\refint\sinifKavrami.dll
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.pdb
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\sinifKavrami\obj\Debug\net6.0\ref\sinifKavrami.dll
