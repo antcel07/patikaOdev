@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\structKavrami\bin\Debug\net6.0\structKavrami.exe
+C:\Users\W10\Desktop\Pratikler\structKavrami\bin\Debug\net6.0\structKavrami.deps.json
+C:\Users\W10\Desktop\Pratikler\structKavrami\bin\Debug\net6.0\structKavrami.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\structKavrami\bin\Debug\net6.0\structKavrami.dll
+C:\Users\W10\Desktop\Pratikler\structKavrami\bin\Debug\net6.0\structKavrami.pdb
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.dll
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\refint\structKavrami.dll
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.pdb
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\structKavrami.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\structKavrami\obj\Debug\net6.0\ref\structKavrami.dll
