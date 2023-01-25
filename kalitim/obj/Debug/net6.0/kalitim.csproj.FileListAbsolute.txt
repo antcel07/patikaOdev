@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Pratikler\kalitim\bin\Debug\net6.0\kalitim.exe
+C:\Users\W10\Desktop\Pratikler\kalitim\bin\Debug\net6.0\kalitim.deps.json
+C:\Users\W10\Desktop\Pratikler\kalitim\bin\Debug\net6.0\kalitim.runtimeconfig.json
+C:\Users\W10\Desktop\Pratikler\kalitim\bin\Debug\net6.0\kalitim.dll
+C:\Users\W10\Desktop\Pratikler\kalitim\bin\Debug\net6.0\kalitim.pdb
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.AssemblyInfo.cs
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.dll
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\refint\kalitim.dll
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.pdb
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\kalitim.genruntimeconfig.cache
+C:\Users\W10\Desktop\Pratikler\kalitim\obj\Debug\net6.0\ref\kalitim.dll
