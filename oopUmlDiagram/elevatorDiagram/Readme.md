@@ -1,3 +1,6 @@
+elevatorDiagram
+------------------------------------
+
 Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın.
 
 Nesne Yönelimli Programlamanın ilkelerini ve sınıflar arası ilişki durumlarını kullanmaya çalışın. (Encapsulation, Inheritance, Polymorphism, Abstraction)
