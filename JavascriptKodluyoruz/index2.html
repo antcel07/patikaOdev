@@ -1,0 +1,106 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kerem Patika Dev</title>
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    </head>
+    <body>
+
+
+<!-- 1-Form seçimi
+2-Input Bilgisini UL içerisine ekle
+3-Form içindeki bilgiyi sıfırla
+4-Eğer forma bilgi girilmez ise kullanıcıyı uya -->
+
+        <div id="alert">
+
+        </div>
+        <div class="container mt-5">
+
+            <div class="row">
+                <div class="col-sm-8 offset-sm-2">
+                    <form id="userForm">
+                        <div class="mb-3">
+                            <label class="form-label" for="username">Kullanıcı Adı</label>
+                            <input class="form-control" type="text" name="username" id="username">
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label" for="score">Not bilgisi</label>
+                        <input class="form-control" type="number" name="score" id="score">
+                        </div>
+
+                        <div class="mb-3">
+                        <button type="submit" class="btn btn-success">Gönder</button>
+                        <button type="reset" class="btn btn-danger">Sıfırla</button>
+                    </div>
+                    </form>
+                </div>
+
+
+                <div class="col-sm-8 offset-sm-2 mt-4"></div>
+                <ul class="list-group" id="userList">
+                    <!-- <li class="list-group-item d-flex justifty-content-between align-items-center">
+
+                        Crass just
+                        <span class="badge bg-primary rounded-pill">14</span>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+    </div>
+        <!--
+        <h1>Kodluyoruz-Frontend 101 Javascript</h1>
+
+        <h2 id="title">Merhaba dünya</h2>
+
+        <form method="POST">
+            <input type="email" name="email" placeholder="Email adresinizi giriniz." />
+            <button type="submit">Gönder</button>
+        </form>
+
+
+        <form method="GET">
+            <input type="text" name="username" placeholder="Kullanıcı adınızı giriniz" />
+            <input type="password" name="password" placeholder="Şifrenizi giriniz." />
+            <button type="submit">Giriş</button>
+          </form>
+
+
+
+          <form onsubmit="handleSubmit(e)" method="POST"><input type="text"name="username"placeholder="Kullanıcı adınızı giriniz"onchange="handleChange(event)"
+            />
+            <input type="password"name="password"placeholder="Şifrenizi giriniz."onchange="handleChange(event)"
+            /><button type="submit">Giriş</button>
+          </form>
+          
+          <script>var username;
+            var password;
+            function handleSubmit(e) {
+              e.preventDefault();
+              console.log("username:" + username + "-" + "password:" + password);
+            }
+            function handleChange(e) {
+              if (e.target.name === "username") {
+                username = e.target.value;
+              }
+              if (e.target.name === "password") {
+                password = e.target.value;
+              }
+            }
+          </script>
+
+
+-->
+
+   <script src="js/02-form.js"></script>
+
+ 
+     
+
+
+    </body>
+</html>
