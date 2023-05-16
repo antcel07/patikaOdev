@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  #slider {
+    position: relative;
+    width: 100%;
+  }
+  
+  .slide {
+    display: none;
+    text-align: center;
+  }
+  
+  .slide.active {
+    display: block;
+  }
+  
+  .slide img {
+    width: 100%;
+  }
+  
+  .caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    width: 99%;
+  }
+  
+  .caption h3 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .caption p {
+    margin: 10px 0 0;
+    font-size: 14px;
+  }
+  
+  #prevButton,
+  #nextButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  #prevButton {
+    left: 10px;
+  }
+  
+  #nextButton {
+    right: 10px;
+  }
+  
+  #prevButton::before,
+  #nextButton::before {
+    content: '';
+    display: inline-block;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+  }
+  
+  #prevButton::before {
+    border-right: 7px solid #fff;
+    margin-right: 5px;
+  }
+  
+  #nextButton::before {
+    border-left: 7px solid #fff;
+    margin-left: 5px;
+  }
+  
+
+
+  #places {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .place {
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    float:left;
+    margin-left: 10px;
+  }
+  
+  .place img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .place-info {
+    margin-top: 10px;
+  }
+  
+  .place-info h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .place-info p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+/* 
+
+  #places {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .place {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+    height: 200px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-style: solid;
+    float: left;
+  }
+  
+  .place img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .place-info {
+    margin-top: 10px;
+  }
+  
+  .place-info h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .place-info p {
+    margin: 5px 0 0;
+    font-size: 14px;
+  } */
+  
